@@ -1,0 +1,15 @@
+Example data point:
+{'text': ['Anyone', 'who', "doesn't", 'like', 'this', 'film', 'is', 'one', 'who', 'is', 'afraid', 'to', 'explore', 'his', 'or', 'her', 'own', 'demons.', 'This', 'film', 'does', 'make', 'the', 'viewer', 'a', 'little', 'uncomfortable', 'at', 'times,', 'but', 'that', 'is', 'its', 'intention.', 'It', 'asks', 'you', 'to', 'look', 'at', 'your', 'own', 'life', 'and', 'confront', 'the', 'obstacles', 'head', 'on', 'like', 'Lou', 'eventually', 'does.', 'It', 'asks', 'you', 'to', 'overcome', 'the', 'fear', 'of', 'perception', 'and', 'become', 'who', 'you', 'are', 'meant', 'to', 'be.', 'Bret', 'Carr', 'holds', 'up', 'a', 'mirror', 'unlike', 'any', 'filmmaker', 'has.', 'The', 'intention', 'and', 'the', 'message', 'is', 'clear', 'and', 'profound.', "People's", 'apprehension', 'about', 'this', 'film', 'stems', 'only', 'from', 'their', 'own', 'insecurities.', 'An', 'open-minded', 'viewer', 'takes', 'this', 'inspirational', 'message', 'and', 'runs', 'with', 'it.', 'Sometimes', 'a', 'life-', 'changing', 'realization', 'DOES', 'come', 'in', 'a', 'flash', '--', 'a', 'light', 'bulb', 'going', 'on.', 'This', 'story', 'is', 'real', 'and', 'changes', 'the', 'lives', 'if', 'its', 'viewers', 'in', 'a', 'real', 'way.'], 'label': 'pos'}
+
+Epoch 	 Train loss 	 Dev loss 
+----------------------------------------
+0 	 0.53811 	 0.39619
+1 	 0.31690 	 0.32050
+2 	 0.21167 	 0.32042
+3 	 0.13806 	 0.34817
+4 	 0.07964 	 0.46918
+5 	 0.04626 	 0.56218
+Evaluating best model (from epoch 2) on test set.
+test loss: 0.3471067276452204
+test accuracy: 0.8591991687369773
+total time: 690.9472689628601
